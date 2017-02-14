@@ -1,0 +1,17 @@
+{
+    "odpi": {
+        "git": [
+            "https://github.com/odpi/self-certification-reports.git",
+            "https://github.com/odpi/sig-reports.git",
+            "https://github.com/odpi/specs.git"
+        ],
+        "github": [
+            "https://github.com/odpi/self-certification-reports",
+            "https://github.com/odpi/sig-reports",
+            "https://github.com/odpi/specs"
+        ],
+        "meta": {
+            "title": "odpi"
+        }
+    }
+}
